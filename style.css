@@ -62,6 +62,7 @@ ul li{
     border-radius: none;
     background-color:black;
     color: #F4EEEE;
+    cursor: pointer;
 }
 #tton:hover{
     background-color: #F4EEEE;
